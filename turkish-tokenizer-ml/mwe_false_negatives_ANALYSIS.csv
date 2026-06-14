@@ -1,0 +1,3 @@
+﻿sentence_text,gold_tokens,pred_tokens,false_negatives
+ateşin üzerinde tüm malzemeler hep bir ağızdan fokurduyordu ama her biri kendi dilinde .,ateşin üzerinde tüm malzemeler hep bir_ağızdan fokurduyordu ama her biri kendi dilinde .,ateşin üzerinde tüm malzemeler hep_bir_ağızdan fokurduyordu ama her_biri kendi dilinde .,bir_ağızdan
+kıyak bir koşu atı .,kıyak bir koşu_atı .,kıyak bir_koşu atı .,koşu_atı
