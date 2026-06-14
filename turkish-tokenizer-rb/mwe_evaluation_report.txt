@@ -1,0 +1,10 @@
+=== MWE Tokenizer Evaluation ===
+Total sentences: 15398
+True Positive:  6
+False Positive: 0
+False Negative: 3770
+
+--- Metrics ---
+Precision: 1.000
+Recall:    0.002
+F1 Score:  0.003
